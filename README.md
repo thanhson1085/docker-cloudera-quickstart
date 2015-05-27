@@ -51,6 +51,9 @@ docker exec -i -t CONTAINER_ID bash -l
 [Github page](https://github.com/thanhson1085/docker-cloudera-quickstart)
 
 
+#Test MapReduce with WordCount example
+Refer to: http://hadoop.apache.org/docs/current/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html
+
 # Checklist of components:
 
 Apache Hadoop (Common, HDFS, MapReduce, YARN)
