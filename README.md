@@ -16,12 +16,6 @@ Based on Ubuntu 14.04 (Trusty LTS)
 
 Works with Cloudera CDH 5
 
-*UPDATED FOR LATEST VERSION - CDH5.3.2
-
-
-*Under development. 
-
-
 #Instructions
 
 ##Install
@@ -84,4 +78,4 @@ OpenJDK7
 
 [Cloudera Documentation](http://www.cloudera.com/content/cloudera/en/documentation/core/latest/)
 
-#Please report any issue or feedback if possible.
+[Blog](http://sonnguyen.ws/install-cloudera-hadoop-in-ubuntu-14-04/)
